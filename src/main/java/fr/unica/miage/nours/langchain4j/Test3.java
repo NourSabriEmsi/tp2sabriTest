@@ -21,7 +21,7 @@ public class Test3 {
                 .outputDimensionality(300)
                 .timeout(Duration.ofSeconds(2))
                 .build();
-        
+
         String phrase1 = "L’intelligence artificielle progresse rapidement.";
         String phrase2 = "Les modèles de langage changent la technologie moderne.";
 
